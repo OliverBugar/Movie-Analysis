@@ -50,3 +50,6 @@ Príklad:
 Ľavá strana: Bar Chart s tržbami podľa žánrov.
 Stred: Line Chart s trendmi v čase.
 Pravá strana: Scatter Plot s ROI vs. rozpočet.
+
+
+https://public.tableau.com/app/profile/kimly.scott/viz/Themoviesofthedecade/MoviesoftheDecade
