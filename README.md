@@ -1,17 +1,17 @@
-# Movies analysis
+# Movie Analysis
 
-Since I am a big movies fan (I love aspecially horror movies), I wanted to try data analysis to create dashboard for best movies according to genres, revenue, people reactions, score and budget so maybe I will find some hidden gems, that I did not see yet. I've downloaded data from kaggle website: https://www.kaggle.com/datasets/hassanelfattmi/which-movie-should-i-watch-today.
-The dataset consist 4 different sheets and all sheets have 9718 rows.
-1. sheet consist of columns: id 	title 	genres 	language 	user_score 	runtime_hour 	runtime_min 	release_date 	vote_count.
-2. sheet consist of columns: id 	runtime 	budget 	revenue 	film_id
-3. sheet consist of columns: id 	director 	top_billed 	budget_usd 	revenue_usd
-4. sheet consist of columns: id 	poster_path 	backdrop_path
+Since I am a big fan of movies (especially horror films), I wanted to try data analysis to create a dashboard for the best movies according to genres, revenue, user reactions, ratings, and budget, so I might uncover some hidden gems that I haven't seen yet. I downloaded the data from Kaggle: [Which Movie Should I Watch Today?](https://www.kaggle.com/datasets/hassanelfattmi/which-movie-should-i-watch-today). The dataset consists of four different sheets, each containing 9,718 rows.
 
-I was using jupiter notebook and python for this data analysis. Firstly I've joined all the sheets together to have one dataset. After that, I've dropped unnecessery colums like additional film_id, poster_path, backdrop_path, top_billed(name of actors that are billed). Than I merge runtime_hour and runtime_min into one (overall mins) and get rid of all the rows, where data did miss. 
+- The first sheet contains the following columns: id, title, genres, language, user_score, runtime_hour, runtime_min, release_date, vote_count.
+- The second sheet contains the following columns: id, runtime, budget, revenue, film_id.
+- The third sheet contains the following columns: id, director, top_billed, budget_usd, revenue_usd.
+- The fourth sheet contains the following columns: id, poster_path, backdrop_path.
 
-After innital data cleaning I was left with 6128 rows. Than I change the data of budget and revenue from float to int, so I would be able to create average for different genres. After additional data cleaning, I uploaded dataset to Tableau, where I started working on dashboards. 
+I used Jupyter Notebook and Python for the analysis. First, I joined all the sheets into one dataset. Then, I dropped unnecessary columns like additional film_id, poster_path, backdrop_path, and top_billed (names of actors billed). I merged the runtime_hour and runtime_min columns into one (total minutes) and removed any rows with missing data.
 
-Firstly, I've created visualization, where we can see all the movies based on number of vote counts and average user score throughout the years. We can filter any genre that we want.
+After initial data cleaning, I was left with 6,128 rows. I then converted the budget and revenue columns from float to integer data types to allow for averages by genre. After additional cleaning, I uploaded the dataset to Tableau, where I started working on the dashboards.
+
+First, I created a visualization showing all the movies based on the number of vote counts and average user scores throughout the years. Users can filter by genre as desired.
 
 <img width="896" alt="Snímka obrazovky 2025-01-03 o 15 57 55" src="https://github.com/user-attachments/assets/9c1beb6b-e5bf-438a-a9af-f79938d65e26" />
 
