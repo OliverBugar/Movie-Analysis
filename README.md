@@ -1,4 +1,27 @@
-# Movies
+# Movies analysis
+
+Since I am a big movies fan (I love aspecially horror movies), I wanted to try data analysis to create dashboard for best movies according to genres, revenue, people reactions, score and budget so maybe I will find some hidden gems, that I did not see yet. I've downloaded data from kaggle website: https://www.kaggle.com/datasets/hassanelfattmi/which-movie-should-i-watch-today.
+The dataset consist 4 different sheets and all sheets have 9718 rows.
+1. sheet consist of columns: id 	title 	genres 	language 	user_score 	runtime_hour 	runtime_min 	release_date 	vote_count.
+2. sheet consist of columns: id 	runtime 	budget 	revenue 	film_id
+3. sheet consist of columns: id 	director 	top_billed 	budget_usd 	revenue_usd
+4. sheet consist of columns: id 	poster_path 	backdrop_path
+
+I was using jupiter notebook and python for this data analysis. Firstly I've joined all the sheets together to have one dataset. After that, I've dropped unnecessery colums like additional film_id, poster_path, backdrop_path, top_billed(name of actors that are billed). Than I merge runtime_hour and runtime_min into one (overall mins) and get rid of all the rows, where data did miss. 
+
+After innital data cleaning I was left with 6128 rows. Than I change the data of budget and revenue from float to int, so I would be able to create average for different genres. After additional data cleaning, I uploaded dataset to Tableau, where I started working on dashboards. 
+
+Firstly, I've created visualization, where we can see all the movies based on number of vote counts and average user score throughout the years. We can filter any genre that we want.
+
+<img width="896" alt="Snímka obrazovky 2025-01-03 o 15 57 55" src="https://github.com/user-attachments/assets/9c1beb6b-e5bf-438a-a9af-f79938d65e26" />
+
+
+
+
+
+
+
+
 Analysing movies by Genre, Revenue etc
 
 
