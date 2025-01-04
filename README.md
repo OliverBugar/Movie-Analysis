@@ -15,8 +15,7 @@ First, I created a visualization showing all the movies based on the number of v
 
 <img width="896" alt="Snímka obrazovky 2025-01-03 o 15 57 55" src="https://github.com/user-attachments/assets/9c1beb6b-e5bf-438a-a9af-f79938d65e26" />
 
-
-
+After creating a visualization showing all the movies based on the number of vote counts, now I can focus on horror movies as I am a big horror movies fan. After filtering the movies in genre "horror" and english language, changing the date time to year from year-month-date and filtering the data by revenue descending, I can see, that  
 
 
 
