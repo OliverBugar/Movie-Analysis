@@ -45,16 +45,6 @@ These closures, along with reduced attendance and capacity limitations, had a se
 <img src="https://github.com/user-attachments/assets/70747412-fde5-44a2-a694-64db5b475d3b" alt="Description" width="800" height="500"> <img src="https://github.com/user-attachments/assets/cdb08eb3-5072-4421-8b39-038877a59f7c" alt="Description" width="200" height="500">
 
 
-
-3. Trendy v čase![Snímka obrazovky 2025-01-05 o 20 44 55]()
-
-
-Otázka: Ako sa menili tržby v jednotlivých rokoch?
-Postup:
-Pretiahni release_date (zmeniť na rok) na X-Axis a revenue na Y-Axis.
-Použi Line Chart na zobrazenie trendov.
-Rozdeľ podľa genres alebo language.
-
 4. Dĺžka filmu a hodnotenie používateľov
 
 Otázka: Má dĺžka filmu vplyv na hodnotenie používateľov?
