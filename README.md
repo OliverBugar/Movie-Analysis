@@ -17,7 +17,7 @@ First, I created a visualization showing all the movies based on the number of v
 
 After creating a visualization showing all the movies based on the number of vote counts, we can not focus on trends of different genres based on budget and revenue. We can see in our analysis, that for example action movies have the highest revenue when their budget is about 300M USD (first photo). As for my favourite genre, we can see, that horror movies have a tendency to have higher revenue, as the budget is getting bigger (second photo). 
 
-<img src="(https://github.com/user-attachments/assets/9259d5a8-ea5e-4cba-a466-0bd57e476b9f))" alt="Description" width="500" height="300">
+<img src="(https://github.com/user-attachments/assets/9259d5a8-ea5e-4cba-a466-0bd57e476b9f)" alt="Description" width="500" height="300">
 
 ![Snímka obrazovky 2025-01-05 o 19 07 32](https://github.com/user-attachments/assets/9259d5a8-ea5e-4cba-a466-0bd57e476b9f).  
 
