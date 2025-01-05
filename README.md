@@ -39,7 +39,7 @@ The findings underscore the importance of tailoring budgets to genre-specific ch
 As we can see the Budget vs Revenue trends across movies genres, we can now focus to see, how revenue develope throughout the years. In the screenshot below, we can see the revenue of different genres in different colour throughout the years. 
 
 
-<img src="https://github.com/user-attachments/assets/70747412-fde5-44a2-a694-64db5b475d3b" alt="Description" width="500" height="500"> <img src="https://github.com/user-attachments/assets/cdb08eb3-5072-4421-8b39-038877a59f7c" alt="Description" width="200" height="500">
+<img src="https://github.com/user-attachments/assets/70747412-fde5-44a2-a694-64db5b475d3b" alt="Description" width="800" height="500"> <img src="https://github.com/user-attachments/assets/cdb08eb3-5072-4421-8b39-038877a59f7c" alt="Description" width="200" height="500">
 
 
 
