@@ -36,26 +36,6 @@ The findings underscore the importance of tailoring budgets to genre-specific ch
 
 
 
-
-
-Analysing movies by Genre, Revenue etc
-
-
-1. Vizualizácia žánrov a tržieb
-
-Otázka: Ktoré žánre majú najvyššie tržby?
-Postup:
-Pretiahni genres do riadkov a revenue do stĺpcov.
-Použi Bar Chart na vizualizáciu.
-Pridaj filter na language alebo časový filter na release_date.
-
-2. Analýza ROI a rozpočtov
-
-Otázka: Aký je vzťah medzi rozpočtom filmu a návratnosťou investície?
-Postup:
-Pretiahni budget na X-Axis a ROI na Y-Axis.
-Použi Scatter Plot a farebne rozlíš podľa genres.
-
 3. Trendy v čase
 
 Otázka: Ako sa menili tržby v jednotlivých rokoch?
