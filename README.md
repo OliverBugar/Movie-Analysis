@@ -13,7 +13,7 @@ After initial data cleaning, I was left with 6,128 rows. I then converted the bu
 
 First, I created a visualization showing all the movies based on the number of vote counts and average user scores throughout the years. Users can filter by genre as desired.
 
-<img width="896" alt="Snímka obrazovky 2025-01-03 o 15 57 55" src="https://github.com/user-attachments/assets/9c1beb6b-e5bf-438a-a9af-f79938d65e26" />
+<img width="1000" alt="Snímka obrazovky 2025-01-03 o 15 57 55" src="https://github.com/user-attachments/assets/9c1beb6b-e5bf-438a-a9af-f79938d65e26" />
 
 # Analysis of Budget vs. Revenue Trends Across Movie Genres
 
