@@ -32,11 +32,12 @@ Horror Movies: Titles with budgets of $50M+ USD see an average revenue increase 
 Broader Implications
 The findings underscore the importance of tailoring budgets to genre-specific characteristics. For action movies, careful budget allocation to maximize impact without overspending is crucial. In contrast, for horror films, increasing budgets generally leads to proportional revenue growth, suggesting untapped potential for high-budget productions in this genre.
 
-<img src="https://github.com/user-attachments/assets/9259d5a8-ea5e-4cba-a466-0bd57e476b9f" alt="Description" width="500" height="500">  <img src="https://github.com/user-attachments/assets/8e993ab1-b3e9-4fdc-ba86-bfbbf6046599" alt="Description" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/9259d5a8-ea5e-4cba-a466-0bd57e476b9f" alt="Description" width="500" height="500">  <img src="https://github.com/user-attachments/assets/ecd075d1-ae65-4e54-8ed1-46cf50dfc245" alt="Description" width="500" height="500">
 
 
 
-3. Trendy v čase
+3. Trendy v čase![Snímka obrazovky 2025-01-05 o 20 44 55]()
+
 
 Otázka: Ako sa menili tržby v jednotlivých rokoch?
 Postup:
