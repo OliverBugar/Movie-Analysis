@@ -36,8 +36,11 @@ The findings underscore the importance of tailoring budgets to genre-specific ch
 
 # Analysis of Revenue Trands throughout the years
 
-As we can see the Budget vs Revenue trends across movies genres, we can now focus to see, how revenue develope throughout the years. In the screenshot below, we can see the revenue of different genres in different colour throughout the years. 
+After analyzing Budget vs. Revenue trends across genres, we shifted focus to how revenue evolved over time. The chart below highlights revenue trends for different genres, with a notable drop in 2020 caused by the COVID-19 pandemic.
 
+During this time, global cinema closures and restrictions drastically reduced film revenue. For instance, China’s box office revenue fell from $2.1 billion in early 2019 to just $3.9 million in early 2020, following the closure of 70,000 cinemas in January. Similar trends were seen worldwide: Italy reported a 94% drop in revenue during the first weekend of March 2020, and many other countries—including the US, UK, and Japan—closed cinemas entirely in March and April.
+
+These closures, along with reduced attendance and capacity limitations, had a severe impact on global box office performance. Before 2020, action movies consistently dominated revenue, generating the largest share at the box office.
 
 <img src="https://github.com/user-attachments/assets/70747412-fde5-44a2-a694-64db5b475d3b" alt="Description" width="800" height="500"> <img src="https://github.com/user-attachments/assets/cdb08eb3-5072-4421-8b39-038877a59f7c" alt="Description" width="200" height="500">
 
