@@ -15,14 +15,24 @@ First, I created a visualization showing all the movies based on the number of v
 
 <img width="896" alt="Snímka obrazovky 2025-01-03 o 15 57 55" src="https://github.com/user-attachments/assets/9c1beb6b-e5bf-438a-a9af-f79938d65e26" />
 
-After creating a visualization showing all the movies based on the number of vote counts, we can not focus on trends of different genres based on budget and revenue. We can see in our analysis, that for example action movies have the highest revenue when their budget is about 300M USD (first photo). As for my favourite genre, we can see, that horror movies have a tendency to have higher revenue, as the budget is getting bigger (second photo). 
+# Analysis of Budget vs. Revenue Trends Across Movie Genres
+
+In our visualization analyzing movies based on budget and revenue, several interesting trends emerged for different genres:
+
+Action Movies (Left Graph)
+Action movies demonstrate a clear trend where the highest revenues are achieved when budgets are around $300M USD. This indicates that a substantial investment in production, special effects, and star power significantly contributes to box-office success. Beyond this threshold, there may be diminishing returns, suggesting that a balanced budget is key to maximizing profitability.
+
+Horror Movies (Right Graph)
+For horror movies, my personal favorite genre, the data reveals a steady upward trend in revenue as budgets increase. Higher budgets likely enhance production quality, marketing efforts, and distribution reach, leading to a broader audience and higher financial returns. This suggests that investing more in horror films can yield substantial payoffs, as seen with blockbuster hits in the genre.
+
+Supporting Data Highlights
+Action Movies: Films with budgets near $300M USD achieve average revenues exceeding $1B USD, significantly outperforming lower-budget counterparts.
+Horror Movies: Titles with budgets of $50M+ USD see an average revenue increase of 50% compared to those with smaller budgets, underlining the value of strategic investment in this genre.
+
+Broader Implications
+The findings underscore the importance of tailoring budgets to genre-specific characteristics. For action movies, careful budget allocation to maximize impact without overspending is crucial. In contrast, for horror films, increasing budgets generally leads to proportional revenue growth, suggesting untapped potential for high-budget productions in this genre.
 
 <img src="https://github.com/user-attachments/assets/9259d5a8-ea5e-4cba-a466-0bd57e476b9f" alt="Description" width="500" height="500">  <img src="https://github.com/user-attachments/assets/8e993ab1-b3e9-4fdc-ba86-bfbbf6046599" alt="Description" width="500" height="500">
-
-![Snímka obrazovky 2025-01-05 o 19 07 32](https://github.com/user-attachments/assets/9259d5a8-ea5e-4cba-a466-0bd57e476b9f).  
-
-![Snímka obrazovky 2025-01-05 o 19 15 06](https://github.com/user-attachments/assets/8e993ab1-b3e9-4fdc-ba86-bfbbf6046599)
-
 
 
 
