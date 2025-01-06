@@ -41,7 +41,8 @@ First, I created a visualization showing all the movies based on the number of v
 <p align="center">
 <img width="1000" alt="Snímka obrazovky 2025-01-03 o 15 57 55" src="https://github.com/user-attachments/assets/9c1beb6b-e5bf-438a-a9af-f79938d65e26" />
 </p>
-# Analysis of Budget vs. Revenue Trends Across Movie Genres
+
+#Analysis of Budget vs. Revenue Trends Across Movie Genres
 
 In our visualization analyzing movies based on budget and revenue, several interesting trends emerged for different genres:
 
@@ -60,7 +61,8 @@ The findings underscore the importance of tailoring budgets to genre-specific ch
 <p align="center">
 <img src="https://github.com/user-attachments/assets/9259d5a8-ea5e-4cba-a466-0bd57e476b9f" alt="Description" width="400" height="400">  <img src="https://github.com/user-attachments/assets/ecd075d1-ae65-4e54-8ed1-46cf50dfc245" alt="Description" width="400" height="400">
 </p>
-# Analysis of Revenue Trands throughout the years
+
+#Analysis of Revenue Trands throughout the years
 
 After analyzing Budget vs. Revenue trends across genres, we shifted focus to how revenue evolved over time. The chart below highlights revenue trends for different genres, with a notable drop in 2020 caused by the COVID-19 pandemic.
 
@@ -71,7 +73,7 @@ These closures, along with reduced attendance and capacity limitations, had a se
 <img src="https://github.com/user-attachments/assets/70747412-fde5-44a2-a694-64db5b475d3b" alt="Description" width="640" height="350"> <img src="https://github.com/user-attachments/assets/cdb08eb3-5072-4421-8b39-038877a59f7c" alt="Description" width="140" height="350">
 </p>
 
-# Analysis of Movie Length and User Score
+#Analysis of Movie Length and User Score
 
 When evaluating the relationship between movie duration and user scores, key insights can help identify the characteristics of high-scoring films. Based on the data visualization:
 
