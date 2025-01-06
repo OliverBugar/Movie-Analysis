@@ -73,13 +73,26 @@ By understanding these patterns, filmmakers and studios can better align their c
 <img src="https://github.com/user-attachments/assets/8c7280a0-32c9-4b02-a98a-7ecac84e3b42" alt="Description" width="600" height="600">
 </p>
 
+# Best movie directors
 
+From the visualization, we observe the average user scores for movies directed by various filmmakers. This analysis provides valuable insights for understanding how director performance aligns with user satisfaction, which is crucial for identifying top-performing directors or benchmarks in the film industry. Here's a breakdown of the insights:
 
-5. Najlepší režiséri
+Top Directors by User Score:
+        Martin Scorsese has the highest average user score, exceeding 7.5, making him the most successful director in terms of audience appreciation.
+        Directors such as Roman Polanski, Steven Spielberg, and Sam Liu closely follow, with scores above 7.0, indicating consistently well-received work.
 
-Otázka: Ktorí režiséri majú najvyššie hodnotenia?
-Postup:
-Pretiahni director do riadkov a priemerné user_score do stĺpcov.
-Použi Bar Chart a zoradi podľa priemeru hodnotení.
-Pridaj filter na genres alebo release_date.
+Consistency in Scores:
+        The directors in this list maintain an average user score of above 6.0, showcasing their ability to deliver movies that resonate well with audiences.
+        The scores gradually decrease, with John Carpenter being the lowest among the Top 20, averaging just above 4.0.
 
+Key Insights for Film Production:
+        Directors with higher user scores are more likely to create critically acclaimed movies. Collaborating with such directors can lead to better audience reception.
+        Martin Scorsese, Roman Polanski, and Steven Spielberg demonstrate the importance of storytelling, direction, and consistency in maintaining audience engagement.
+
+Trends for Movie Development:
+        This analysis can guide movie studios in selecting directors for high-budget projects where audience reception is a priority.
+        By focusing on directors with scores above 6.0, producers can minimize the risk of underperformance.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/7c6c1afa-362f-48bc-bafa-0f3eeb30cba0" alt="Description" width="600" height="600">
+</p>
