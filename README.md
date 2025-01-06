@@ -32,7 +32,7 @@ Horror Movies: Titles with budgets of $50M+ USD see an average revenue increase 
 Broader Implications
 The findings underscore the importance of tailoring budgets to genre-specific characteristics. For action movies, careful budget allocation to maximize impact without overspending is crucial. In contrast, for horror films, increasing budgets generally leads to proportional revenue growth, suggesting untapped potential for high-budget productions in this genre.
 
-<img src="https://github.com/user-attachments/assets/9259d5a8-ea5e-4cba-a466-0bd57e476b9f" alt="Description" width="500" height="500">  <img src="https://github.com/user-attachments/assets/ecd075d1-ae65-4e54-8ed1-46cf50dfc245" alt="Description" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/9259d5a8-ea5e-4cba-a466-0bd57e476b9f" alt="Description" width="400" height="400">  <img src="https://github.com/user-attachments/assets/ecd075d1-ae65-4e54-8ed1-46cf50dfc245" alt="Description" width="400" height="400">
 
 # Analysis of Revenue Trands throughout the years
 
@@ -42,7 +42,7 @@ During this time, global cinema closures and restrictions drastically reduced fi
 
 These closures, along with reduced attendance and capacity limitations, had a severe impact on global box office performance. Before 2020, action movies consistently dominated revenue, generating the largest share at the box office.
 
-<img src="https://github.com/user-attachments/assets/70747412-fde5-44a2-a694-64db5b475d3b" alt="Description" width="800" height="500"> <img src="https://github.com/user-attachments/assets/cdb08eb3-5072-4421-8b39-038877a59f7c" alt="Description" width="200" height="500">
+<img src="https://github.com/user-attachments/assets/70747412-fde5-44a2-a694-64db5b475d3b" alt="Description" width="600" height="350"> <img src="https://github.com/user-attachments/assets/cdb08eb3-5072-4421-8b39-038877a59f7c" alt="Description" width="100" height="350">
 
 
 4. Dĺžka filmu a hodnotenie používateľov
