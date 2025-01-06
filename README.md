@@ -45,13 +45,35 @@ These closures, along with reduced attendance and capacity limitations, had a se
 <img src="https://github.com/user-attachments/assets/70747412-fde5-44a2-a694-64db5b475d3b" alt="Description" width="640" height="350"> <img src="https://github.com/user-attachments/assets/cdb08eb3-5072-4421-8b39-038877a59f7c" alt="Description" width="140" height="350">
 
 
-4. Dĺžka filmu a hodnotenie používateľov
+# Analysis of Movie Length and User Score
 
-Otázka: Má dĺžka filmu vplyv na hodnotenie používateľov?
-Postup:
-Pretiahni Total Runtime na X-Axis a user_score na Y-Axis.
-Použi Scatter Plot.
-Pridaj trendovú čiaru (Trend Line) na vizualizáciu vzťahu.
+When evaluating the relationship between movie duration and user scores, key insights can help identify the characteristics of high-scoring films. Based on the data visualization:
+
+Optimal Movie Length for High Scores:
+        Movies with durations between 90 and 140 minutes tend to receive the highest user scores.
+        Within this range, some films achieve scores above 20, indicating strong audience approval and engagement.
+
+Decreasing Scores Beyond 145 Minutes:
+        Films exceeding 145 minutes in runtime generally show a decline in user scores, with scores falling between 6 and 14.
+        This trend suggests that longer movies may struggle to maintain viewer interest or satisfaction.
+
+Lowest User Scores for Lengthy Films:
+        Movies with durations over 190 minutes exhibit the lowest user scores. These films rarely score above 6, emphasizing the challenges of creating long movies that resonate with audiences.
+
+Key Takeaways for Filmmakers:
+        To maximize audience satisfaction, aiming for a runtime between 90 and 140 minutes appears optimal.
+        While longer films are sometimes necessary for complex storytelling, filmmakers should carefully consider pacing and narrative engagement to avoid score penalties.
+
+Considerations for Specific Genres:
+        Further segmentation by genre may reveal exceptions or additional patterns (e.g., epics or historical dramas might perform differently). Exploring this segmentation could provide tailored insights for specific types of films.
+
+By understanding these patterns, filmmakers and studios can better align their creative and production decisions with audience preferences, optimizing the potential for critical and commercial success.   
+
+![Snímka obrazovky 2025-01-06 o 17 13 34](https://github.com/user-attachments/assets/8c7280a0-32c9-4b02-a98a-7ecac84e3b42)
+<img src="https://github.com/user-attachments/assets/8c7280a0-32c9-4b02-a98a-7ecac84e3b42" alt="Description" width="500" height="500">
+
+
+
 
 5. Najlepší režiséri
 
@@ -61,15 +83,3 @@ Pretiahni director do riadkov a priemerné user_score do stĺpcov.
 Použi Bar Chart a zoradi podľa priemeru hodnotení.
 Pridaj filter na genres alebo release_date.
 
-3. Dashboard v Tableau
-Vytvorenie dashboardu:
-Kombinuj viacero grafov na jednom plátne (napr. tržby podľa žánrov, dĺžka filmu vs. hodnotenie, trendy v čase).
-Pridaj interaktívne filtre, aby používatelia mohli filtrovať podľa jazyka, žánru, alebo rokov.
-Použi Actions na prepojenie grafov – napr. kliknutie na žáner aktualizuje všetky grafy.
-Príklad:
-Ľavá strana: Bar Chart s tržbami podľa žánrov.
-Stred: Line Chart s trendmi v čase.
-Pravá strana: Scatter Plot s ROI vs. rozpočet.
-
-
-https://public.tableau.com/app/profile/kimly.scott/viz/Themoviesofthedecade/MoviesoftheDecade
