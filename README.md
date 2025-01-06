@@ -69,8 +69,7 @@ Considerations for Specific Genres:
 
 By understanding these patterns, filmmakers and studios can better align their creative and production decisions with audience preferences, optimizing the potential for critical and commercial success.   
 
-![Snímka obrazovky 2025-01-06 o 17 13 34](https://github.com/user-attachments/assets/8c7280a0-32c9-4b02-a98a-7ecac84e3b42)
-<img src="https://github.com/user-attachments/assets/8c7280a0-32c9-4b02-a98a-7ecac84e3b42" alt="Description" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/8c7280a0-32c9-4b02-a98a-7ecac84e3b42" alt="Description" width="600" height="600">
 
 
 
