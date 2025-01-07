@@ -175,4 +175,4 @@ Personal Takeaway
 
 This project has been an enlightening journey into the intricate dynamics of the movie industry. As a passionate movie enthusiast, I now have a deeper appreciation for the factors that contribute to a film's success or failure. The findings not only helped me identify hidden gems to watch but also provided a framework for understanding how the movie industry operates on a global scale.
 
-By bridging data analysis with creative storytelling, this project demonstrates the immense potential of data-driven approaches in shaping the future of entertainment.
+By bridging data analysis with creative storytelling, my project demonstrates the immense potential of data-driven approaches in shaping the future of entertainment.
